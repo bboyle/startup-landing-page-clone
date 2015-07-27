@@ -425,3 +425,13 @@ td,
 th {
   padding: 0;
 }
+
+/* JONAS STYLES BEGIN HERE */
+
+body {
+  background-color: LightGray; /* visual reference during dev */
+}
+
+div {
+  border: 1px solid Chocolate; /* visual reference during dev */
+}

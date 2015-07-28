@@ -437,6 +437,7 @@ th {
 
 body {
   background-color: LightGray; /* visual reference during dev */
+  font-family: 'Roboto', sans-serif; 
 }
 
 div {
@@ -445,6 +446,8 @@ div {
 
 .content {
   padding: 0px 15px;
+  width: 970px;
+  margin: 0 auto;
 }
 
 /* Navigation Section */
@@ -454,14 +457,11 @@ div {
 }
 
 .top-navigation > .content {
-  width: 970px;
   height: 70px;
-  margin: 0 auto;
 }
 
 .top-navigation .links {
   float: right;
-  font-family: 'Roboto', sans-serif; 
   font-size: 16px; 
   color: #838994; 
   letter-spacing: 0.03em;
@@ -487,4 +487,28 @@ div {
 .logo {
   /* margin-left: 15px; */
   height: 70px;
+}
+
+/* cover image section */
+
+.introduction {
+    background-image: url('../images/first-background.jpg');
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45.938rem;
+}
+
+/* Intro Section */
+
+.introduction h1, .introduction h3 {
+  color: white;
+  text-align: center;
+}
+
+/* Type Styling */
+
+.introduction h1{
+  margin-top: 17.5rem;
+  font-size: 3.125rem;
 }

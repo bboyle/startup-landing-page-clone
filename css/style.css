@@ -436,12 +436,12 @@ th {
 /* PAGE STYLING BEGINS HERE */
 
 body {
-  background-color: LightGray; /* visual reference during dev */
+  /* background-color: LightGray; /* visual reference during dev */
   font-family: 'Roboto', sans-serif; 
 }
 
 div {
-  border: 1px solid Chocolate; /* visual reference during dev */
+  /* border: 1px solid Chocolate; /* visual reference during dev */
 }
 
 .content {
@@ -569,6 +569,18 @@ ul.flexbx {
   padding: 0 3rem;
 }
 
+/* FOOTER SECTION  */
 
+.social {
+  padding-top: 25px;
+}
 
-
+.icons li {
+  border: 1px solid #ccc;
+  border-radius: 80%;
+  padding: 15px;
+  margin: 10px;
+  width: 50px;
+  height: 50px;
+  background-color: #fff;
+}

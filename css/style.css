@@ -437,7 +437,7 @@ th {
 
 body {
   /* background-color: LightGray; /* visual reference during dev */
-  font-family: 'Roboto', sans-serif; 
+  font-family: 'Roboto', sans-serif;
 }
 
 div {
@@ -465,8 +465,8 @@ div {
 
 .top-navigation .links {
   float: right;
-  font-size: 16px; 
-  color: #838994; 
+  font-size: 16px;
+  color: #838994;
   letter-spacing: 0.03em;
   margin-top: 28px;
   -webkit-font-smoothing: antialiased;
@@ -495,12 +495,12 @@ div {
 /* INTRO SECTION  */
 
 .introduction {
-    background-image: url('../images/first-background.jpg');
-    background-position: center bottom;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 45.938rem;
-    overflow: auto;
+  background-image: url('../images/first-background.jpg');
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 45.938rem;
+  overflow: auto;
 }
 
 .introduction h1, .introduction h3 {
@@ -515,10 +515,10 @@ div {
 }
 
 .introduction h3 {
-    margin-top: 1.25rem;
-    margin-bottom: 2.5rem;
-    font-size: 1.563rem;
-  }
+  margin-top: 1.25rem;
+  margin-bottom: 2.5rem;
+  font-size: 1.563rem;
+}
 
 .big-button {
   background-color: #f15a29;

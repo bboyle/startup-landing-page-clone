@@ -445,7 +445,7 @@ div {
 }
 
 .content {
-  padding: 0px 15px;
+  padding: 0 15px;
   width: 970px;
   margin: 0 auto;
 }
@@ -563,7 +563,7 @@ ul.flexbx {
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 0px;
+  padding: 0;
 }
 
 .caption {
